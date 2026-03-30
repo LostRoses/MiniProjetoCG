@@ -50,4 +50,6 @@ Conclusão
 
 Este projeto demonstra o uso de transformações gráficas e animação em Canvas, atendendo a todos os requisitos: translação, rotação, escala, composição de transformações, rotação com ponto fixo, animação e gerenciamento de estados. 
 
- 
+Alunos: João Martins, RA: 00000829607
+João Estevam, RA: 00000849501
+
